@@ -1,4 +1,4 @@
-# CAPSTONE
+# SINOSSI
 Con questo progetto di analisi dati mi propongo di esplorare la spesa farmaceutica in Italia,
 con particolare attenzione alla distribuzione e al confronto tra le diverse categorie di farmaci nelle varie regioni italiane.
 A partire dai dati forniti da fonti ufficiali come l’Agenzia Italiana del Farmaco (AIFA), l’analisi vuole fornire una panoramica sull'utilizzo dei farmaci nelle varie regioni italiane. Quali sono i più venduti? Le categorie più popolari?
